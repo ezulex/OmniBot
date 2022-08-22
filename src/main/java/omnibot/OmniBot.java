@@ -12,7 +12,7 @@ public class OmniBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        return "all_omni_bot";
+        return "BOT_NAME";
     }
 
     @Override
